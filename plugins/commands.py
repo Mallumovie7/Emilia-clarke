@@ -44,7 +44,7 @@ async def start(client, message):
             InlineKeyboardButton('🎥 ᏟᎻᎪΝΝᎬᏞ 🎥', url='https://t.me/RBLunainline'),
             InlineKeyboardButton('🎀 ႮᏢᎠᎪͲᎬՏ 🎀', url='https://t.me/RBLUNASupportGroup')
             ],[      
-            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='help'),
+            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
             InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
             ],[
             InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
@@ -87,7 +87,7 @@ async def start(client, message):
             InlineKeyboardButton('🎥 ᏟᎻᎪΝΝᎬᏞ 🎥', url='https://t.me/RBLunainline'),
             InlineKeyboardButton('🎀 ႮᏢᎠᎪͲᎬՏ 🎀', url='https://t.me/RBLUNASupportGroup')
             ],[      
-            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪᎠՏ ❓', callback_data='help'),
+            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪᎠՏ ❓', callback_data='commands'),
             InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
             ],[
             InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎡ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
