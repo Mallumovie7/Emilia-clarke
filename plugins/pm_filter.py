@@ -1232,7 +1232,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-    elif quary.data == "stats2":
+    elif query.data == "stats2":
         buttons = [[
             InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='about'),
             InlineKeyboardButton('ᎡᎬҒᎡᎬՏᎻ', callback_data='rfrsh')
