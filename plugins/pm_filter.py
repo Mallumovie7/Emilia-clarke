@@ -827,7 +827,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
-            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
+            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats2')
             ],[
             InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
             ],[
@@ -875,7 +875,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
-            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
+            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats2')
             ],[
             InlineKeyboardButton('𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
             ],[
@@ -890,7 +890,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('💖ՏͲᎪͲႮՏ', callback_data='stats2')
+            InlineKeyboardButton('💖ՏͲᎪͲႮՏ', callback_data='stats')
             ],[
             InlineKeyboardButton('🏠 ᎻϴᎷᎬ 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 ᏟᏞϴՏᎬ 🔐', callback_data='close_data')
