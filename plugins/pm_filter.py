@@ -1235,7 +1235,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "rfrsh":
         await query.answer("Fetching MongoDb DataBase")
         buttons = [[
-            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='help'),
+            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands'),
             InlineKeyboardButton('ᎡᎬҒᎡᎬՏᎻ', callback_data='rfrsh')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
