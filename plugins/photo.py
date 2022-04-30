@@ -7,7 +7,7 @@ async def photo(client: Client, message: Message):
     try:
         await client.send_message(
             chat_id=message.chat.id,
-            text="ՏᎬᏞᎬᏟͲ ᎽϴႮᎡ ᎡᎬϘႮᏆᎡᎬᎠ ᎷϴᎠᎬ ҒᎡϴᎷ ᏴᎬᏞϴᏔ!ㅤㅤ",
+            text="🌟𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚂𝙸𝚅𝙰-𝙴𝙳𝙸𝚃𝚂🌟ՏᎬᏞᎬᏟͲ ᎽϴႮᎡ ᎡᎬϘႮᏆᎡᎬᎠ ᎷϴᎠᎬ ҒᎡϴᎷ ᏴᎬᏞϴᏔ!ㅤㅤ",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
