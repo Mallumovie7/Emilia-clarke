@@ -50,8 +50,8 @@ async def start(client, message):
             InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
-        await message.reply_photo(
-            photo=random.choice(PICS),
+        await message.reply_video(
+            video=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode='html'
