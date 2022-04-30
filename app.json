@@ -85,6 +85,11 @@
             "value": "300",
             "required": false
         },
+        "SINGLE_BUTTON": {
+            "description": "choose b/w single or double buttons",
+            "value": "True",
+            "required": false
+        },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
             "value": "RBLunainline",
