@@ -623,7 +623,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.message.edit(
             "**Select a Type**",
             reply_markup=InlineKeyboardMarkup(
-                [
                     [
                         InlineKeyboardButton(text="ᏴϴХ", callback_data="box"),
                         InlineKeyboardButton(text="ΝϴᎡᎷᎪᏞ", callback_data="normal"),
@@ -632,9 +631,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='photo')
-                    ],
-                ]
-            ),
+                    ]
         )
     elif query.data == "circle":
         await query.message.edit_text(
