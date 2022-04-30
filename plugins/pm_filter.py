@@ -632,6 +632,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='photo')
+                    ]
                 ]
             ),
         )
