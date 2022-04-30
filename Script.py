@@ -140,7 +140,7 @@ Paste some texts or documents on a website!
 <b>Commands:</b>
 
 • /alive - To check you are alive.
-• /help - To get help.
+• /commands - To get help.
 • /ping - To get your ping.
 • /repo - Source Code.
 • /channel - Channel Details.
