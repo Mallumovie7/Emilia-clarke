@@ -1206,7 +1206,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "dev":
         buttons = [[
-            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='commands')
+            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
