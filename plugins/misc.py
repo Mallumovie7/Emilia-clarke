@@ -60,14 +60,14 @@ async def showid(client, message):
 @Client.on_message(filters.command("about"))
 async def aboutme(client, message):
         buttons= [[
-            InlineKeyboardButton('💖ՏͲᎪͲႮՏ', callback_data='stats')
+            InlineKeyboardButton('💖ᎠᎬᏙᎬᏞϴᏢᎬᎡ', callback_data='dev')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_photo(
-            photo=random.choice(PICS),
+        await message.reply_video(
+            video=random.choice(PICS),
             caption=script.ABOUT_TXT.format(message.from_user.mention),
             reply_markup=reply_markup,
             parse_mode='html'
