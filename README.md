@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://telegra.ph/file/3879b9198f163c5523d88.jpg" alt="𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂Logo">
 </p>
+<p align="center">
+  <img src="https://telegra.ph/file/460bddbdbded91a2d7bf4.mp4" alt="𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂Logo">
+</p>
 
 
 
