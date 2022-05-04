@@ -1,9 +1,3 @@
-# codes added by @lallu_tg
-# use with  proper credits
-
-"""Get info about the replied user
-Syntax: .whois"""
-
 import os
 import time
 from datetime import datetime
@@ -14,15 +8,12 @@ from plugins.helper_functions.extract_user import extract_user
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
 from plugins.helper_functions.last_online_hlpr import last_online
 
-
 @Client.on_message(
     filters.command(["whois", "info"], COMMAND_HAND_LER) &
     f_onw_fliter
 )
 async def who_is(client, message):
-    """ extract user information """
     status_message = await message.reply_text(
-        "𝚆𝙰𝙸𝚃 𝙱𝚁𝙾 𝙻𝙴𝚃 𝙼𝙴 𝙲𝙷𝙴𝙲𝙺 ☺"
     )
     from_user = None
     from_user_id, _ = extract_user(message)
