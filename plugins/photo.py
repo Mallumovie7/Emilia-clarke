@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters
 
 
-@Client.on_message(filters.command(["edit","photo"]))
+@Client.on_message(filters.command(["edit","photo"] & filters.private))
 async def photo(client: Client, message: Message):
     replied = message.reply_to_message
     if not replied:
