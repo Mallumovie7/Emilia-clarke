@@ -620,7 +620,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ),
         )
     elif query.data == "blur":
-        await query.message.edit(
+        await query.message.edit_text(
             "**Select a Type**",
             reply_markup=InlineKeyboardMarkup(
                 [
