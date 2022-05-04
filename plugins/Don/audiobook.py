@@ -15,23 +15,23 @@ async def pdf_to_text(bot, message):
  try:
            if message.reply_to_message:
                 pdf_path = DOWNLOAD_LOCATION + f"{message.chat.id}.pdf" #pdfFileObject
-                txt = await message.reply("Downloading.....")
+                txt = await message.reply("Downloading 📥........")
                 await message.reply_to_message.download(pdf_path)  
-                await txt.edit("Downloaded File")
+                await txt.edit("Downloaded File 📁")
                 pdf = open(pdf_path,'rb')
                 pdf_reader = PyPDF2.PdfFileReader(pdf) #pdfReaderObject
-                await txt.edit("Getting Number of Pages....")
+                await txt.edit("Getting Number of Pages 📃........")
                 num_of_pages = pdf_reader.getNumPages() # Number of Pages               
                 await txt.edit(f"Found {num_of_pages} Page")
                 page_no = pdf_reader.getPage(0) # pageObject
-                await txt.edit("Finding Text from Pdf File... ")
+                await txt.edit("Finding Text from Pdf File 📝........ ")
                 page_content = """ """ # EmptyString   
                 chat_id = message.chat.id
                 with open(f'{message.chat.id}.txt', 'a+') as text_path:   
                   for page in range (0,num_of_pages):              
                       page_no = pdf_reader.getPage(page) # Iteration of page number
                       page_content += page_no.extractText()
-                await txt.edit(f"Creating Your Audio Book...\n Please Don't Do Anything")
+                await txt.edit(f"Creating Your Audio Book ⏳...\n Please Don't Do Anything")
                 output_text = page_content + Thanks
               # Change Voice by editing the Language
                 language = 'en-in'  # 'en': ['en-us', 'en-ca', 'en-uk', 'en-gb', 'en-au', 'en-gh', 'en-in',
