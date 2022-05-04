@@ -3,8 +3,8 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 ⚡🔥"""
     COMMANDS_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙻𝚄𝙽𝙰</b>
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>
+    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙴𝙼𝙸𝙻𝙸𝙰</b>
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Tanujairam>𝚃𝙰𝙽𝚄𝙹𝙰𝙸𝚁𝙰𝙼</a></b>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
@@ -163,11 +163,11 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝙻𝚄𝙽𝙰](https://telegra.ph/file/290086d13ffb506b43429.mp4) 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
+    PRIVATEBOT_TXT = """<b>𝚈𝙾𝚄 𝚃𝙷𝙸𝙽𝙺 [𝙴𝙼𝙸𝙻𝙸𝙰](https://telegra.ph/file/290086d13ffb506b43429.mp4) 𝙼𝙴𝙰𝙽 𝙵𝙻𝙾𝚆𝙴𝚁 𝙽𝙾 𝙵𝙸𝚁𝙴🔥</b>
 <b>›› 𝙸𝙵 𝚈𝙾𝚄𝚁 𝙱𝙰𝙳 𝙸𝙰𝙼 𝚈𝙾𝚄𝚁 𝙳𝙰𝙳</b>
 <b>›› 𝙻𝚄𝙽𝙰 𝙸𝚂 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃</b>
 <b>›› 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈😍</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/balaSmurugan>𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽</a></b>"""
+<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/Tanujairam>𝚃𝙰𝙽𝚄𝙹𝙰𝙸𝚁𝙰𝙼</a></b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
