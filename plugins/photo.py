@@ -2,8 +2,24 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters
 
 
-@Client.on_message(filters.photo & filters.private)
+@Client.on_message(filters.command(["edit","photo"]))
 async def photo(client: Client, message: Message):
+    replied = message.reply_to_message
+    if not replied:
+        await message.reply("Reply to a supported media file")
+        return
+    if (
+        (
+        replied.video
+            and replied.video.file_name.endswith(".mp4")
+       )
+        or(
+           replied.document
+            and replied.document.file_name.endswith(
+                (".jpg", ".jpeg", ".png", ".gif", ".mp4")
+       ):
+            await message.reply("please reply to a image!")
+            
     try:
         await client.send_message(
             chat_id=message.chat.id,
