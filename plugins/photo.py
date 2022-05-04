@@ -17,7 +17,8 @@ async def photo(client: Client, message: Message):
            replied.document
             and replied.document.file_name.endswith(
                 (".jpg", ".jpeg", ".png", ".gif", ".mp4")) 
-       ):
+          ) 
+        ):
             await message.reply("please reply to a image!")
             
     try:
