@@ -1,13 +1,9 @@
-
-
 import os
 import re
 import json
 import aiohttp
 import requests
-
 from pyrogram import Client, filters
-
 
 #Headers
 headers = {
@@ -36,11 +32,6 @@ async def p_paste(message, extension=None):
             "bin": "Pasty",
         }
     return {"error": "Unable to reach pasty.lus.pm"}
-
-
-
-
-
 
 @Client.on_message(filters.command(["tgpaste", "pasty", "paste"]))
 async def pasty(client, message):
