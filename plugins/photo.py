@@ -12,11 +12,11 @@ async def photo(client: Client, message: Message):
         (
         replied.video
             and replied.video.file_name.endswith(".mp4")
-       )
+        )
         or(
            replied.document
             and replied.document.file_name.endswith(
-                (".jpg", ".jpeg", ".png", ".gif", ".mp4")
+                (".jpg", ".jpeg", ".png", ".gif", ".mp4")) 
        ):
             await message.reply("please reply to a image!")
             
