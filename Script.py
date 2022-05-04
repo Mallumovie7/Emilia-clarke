@@ -344,6 +344,11 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 
 ➪ 𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 𝙼𝙴 𝙰 𝙸𝙼𝙰𝙶𝙴 𝚃𝙾 𝙴𝙳𝙸𝚃 ✨
 
+ <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
+
+➪ /edit 𝙾𝚁 /photo 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 
+𝚃𝙾 𝙴𝙳𝙸𝚃 𝙸𝙼𝙰𝙶𝙴 𝙾𝚁 𝙿𝙷𝙾𝚃𝙾.🌹
+
 𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Tamil_moviesdaa>𝙻𝚄𝙽𝙰 𝚂𝚄𝙿𝙿𝙾𝚁𝚃</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
