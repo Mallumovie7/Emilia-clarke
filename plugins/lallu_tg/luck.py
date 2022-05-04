@@ -10,7 +10,6 @@ TRY_YOUR_LUCK = "🎰"
     filters.command(["luck", "cownd"])
 )
 async def luck_cownd(client, message):
-    """ /luck an @animatedluck """
     rep_mesg_id = message.message_id
     if message.reply_to_message:
         rep_mesg_id = message.reply_to_message.message_id
