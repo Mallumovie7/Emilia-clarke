@@ -24,7 +24,7 @@ async def photo(client: Client, message: Message):
     try:
         await client.send_message(
             chat_id=message.chat.id,
-            text="ՏᎬᏞᎬᏟͲ ᎽϴႮᎡ ᎡᎬϘႮᏆᎡᎬᎠ ᎷϴᎠᎬ ҒᎡϴᎷ ᏴᎬᏞϴᏔ!ㅤㅤ",
+            text="𝚂𝚎𝚕𝚎𝚌𝚝 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚖𝚘𝚍𝚎 𝚋𝚎𝚕𝚘𝚠 👇",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
@@ -53,7 +53,7 @@ async def photo(client: Client, message: Message):
                         InlineKeyboardButton(text="𝚁𝙴𝙼𝙾𝚅𝙴-𝙱𝙶", callback_data="removebg"),
                     ],
                     [
-                        InlineKeyboardButton(text="ᏟᏞϴՏᎬ", callback_data="close_data"),
+                        InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close_data"),
                     ],
                 ]
             ),
