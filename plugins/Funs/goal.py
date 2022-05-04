@@ -1,14 +1,9 @@
-# codes added by @PaulWalker_tg
-# use with proper credits
-
 from pyrogram import Client, filters
 from info import COMMAND_HAND_LER
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # EMOJI CONSTANTS
 GOAL_E_MOJI = "⚽"
-# EMOJI CONSTANTS
-
 
 @Client.on_message(
     filters.command(["goal", "shoot"], COMMAND_HAND_LER) &
