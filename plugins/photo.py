@@ -4,9 +4,6 @@ from pyrogram import Client, filters
 
 @Client.on_message(filters.command("edit") & filters.private) 
 async def photo(client: Client, message: Message):
-    replied = message.reply_to_message
-    if not replied:
-        await message.reply("Reply to a supported media file") 
     try:
         await client.send_message(
             chat_id=message.chat.id,
