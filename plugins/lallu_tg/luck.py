@@ -1,12 +1,6 @@
-# code added by @lallu_tg
-# use with proper credits
-
-
 from pyrogram import Client, filters
 from info import COMMAND_HAND_LER
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
-
-# LUCK------------ https://telegram.me/Josprojects ------------ #
 
 # EMOJI CONSTANTS
 TRY_YOUR_LUCK = "🎰"
