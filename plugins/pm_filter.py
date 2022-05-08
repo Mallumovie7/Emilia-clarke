@@ -861,6 +861,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
             InlineKeyboardButton('𝙿𝙸𝙽𝙶', callback_data='pings'),
             InlineKeyboardButton('𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷', callback_data='tele')
+            ],[
+            InlineKeyboardButton('🏠 Home',callback_data='start'), 
+            InlineKeyboardButton('Status',callback_data='status') 
          ]]
          reply_markup = InlineKeyboardMarkup(buttons)
         await query.answer("𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗆𝗒 𝖧𝖾𝗅𝗉 𝗆𝗈𝖽𝗎𝗅𝖾")
