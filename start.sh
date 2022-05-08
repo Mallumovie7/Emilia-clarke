@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Tanujairam123/emilia-extra-features.git /emilia-extra-features
+  git clone https://github.com/Tanujairam-TG/emilia-extra-features.git /emilia-extra-features
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /emilia-extra-features
