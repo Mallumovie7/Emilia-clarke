@@ -3,20 +3,6 @@
   <img src="https://telegra.ph/file/f9c7bf746a6d9ab9956e8.jpg" alt="𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂Logo">
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Features
 
 - [x] Auto Filter
@@ -67,13 +53,6 @@ You can deploy this bot anywhere.
 </a>
 </p>
 
-
-
-
-
-
-
-
 ## Commands
 ```
 * /logs - to get the rescent errors
@@ -102,6 +81,3 @@ You can deploy this bot anywhere.
 * /channel - to get list of total connected channels
 * /broadcast - to broadcast a message to all Ajax users
 ```
-
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽](https://t.me/balaSMURUGAN)</b>                                                                                                                                                                                     
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝙻𝚄𝙽𝙰 𝙸𝙽𝙻𝙸𝙽𝙴](https://t.me/RBLunainline)</b>
