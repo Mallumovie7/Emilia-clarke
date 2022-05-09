@@ -871,6 +871,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             text=script.COMMANDS_TXT.format(query.from_user.mention)),
             reply_markup=reply_markup,
             parse_mode='html'
+         ) 
      elif queri.data == "commandstwo":
             buttons = [[
             InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂', callback_data='whois'),
