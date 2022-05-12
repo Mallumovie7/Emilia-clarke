@@ -840,7 +840,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
             InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
          ]]
-         reply_markup = InlineKeyboardMarkup(buttons)
          await query.message.edit_text(
             text=script.COMMANDS_TXT.format(query.from_user.mention),
             reply_markup=reply_markup,
