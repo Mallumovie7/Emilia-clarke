@@ -814,9 +814,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴘɪɴɢ', callback_data='pings'),
             InlineKeyboardButton('ᴘᴜʀɢᴇ', callback_data='purges')
             ],[
-            InlineKeyboardButton('Home', callback_data='start'), 
-            InlineKeyboardButton('stats', callback_data='stats'),             
-            InlineKeyboardButton('Next', callback_data='helpb')
+            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'), 
+            InlineKeyboardButton('🔮 sᴛᴀᴛs', callback_data='stats'),             
+            InlineKeyboardButton('ɴᴇxᴛ ➡️', callback_data='helpb')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -842,9 +842,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ʏᴛ ᴛʜᴜᴍʙ', callback_data='ytthumb'),
             InlineKeyboardButton('ᴢᴏᴍʙɪᴇ', callback_data='zombies')
             ],[
-            InlineKeyboardButton('Previous', callback_data='commands'), 
-            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats'), 
-            InlineKeyboardButton('Home', callback_data='start') 
+            InlineKeyboardButton('⬅️ ᴘʀᴇᴠɪᴏᴜs', callback_data='commands'), 
+            InlineKeyboardButton('🔮 sᴛᴀᴛs', callback_data='stats'), 
+            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start') 
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
