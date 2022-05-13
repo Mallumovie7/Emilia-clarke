@@ -803,7 +803,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("ᴇxᴛʀᴀ", callback_data='extra')
             ],[
             InlineKeyboardButton('ғᴜɴ', callback_data='fun'), 
-            InlineKeyboardButton('ғⁱˡᵉ ˢᵗᵒʳᵉ', callback_data='newdata'),
+            InlineKeyboardButton('ғɪʟᴇ sᴛᴏʀᴇ', callback_data='newdata'),
             InlineKeyboardButton("ɢ ᴛʀᴀɴs", callback_data='gtrans')
             ],[
             InlineKeyboardButton('ɪᴍᴀɢᴇ', callback_data='image'), 
