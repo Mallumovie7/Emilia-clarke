@@ -248,7 +248,7 @@ async def removebg_plain(client, message):
                     "https://api.remove.bg/v1.0/removebg",
                     files={"image_file": open(download_location, "rb")},
                     data={"size": "auto"},
-                    headers={"X-Api-Key": info.RemoveBG_API},
+                    headers={"X-Api-Key": RemoveBG_API},
                 )
                 if response.status_code == 200:
                     with open(f"{edit_img_loc}", "wb") as out:
@@ -308,7 +308,7 @@ async def removebg_white(client, message):
                     "https://api.remove.bg/v1.0/removebg",
                     files={"image_file": open(download_location, "rb")},
                     data={"size": "auto"},
-                    headers={"X-Api-Key": info.RemoveBG_API},
+                    headers={"X-Api-Key": RemoveBG_API},
                 )
                 if response.status_code == 200:
                     with open(f"{edit_img_loc}", "wb") as out:
@@ -368,7 +368,7 @@ async def removebg_sticker(client, message):
                     "https://api.remove.bg/v1.0/removebg",
                     files={"image_file": open(download_location, "rb")},
                     data={"size": "auto"},
-                    headers={"X-Api-Key": info.RemoveBG_API},
+                    headers={"X-Api-Key": RemoveBG_API},
                 )
                 if response.status_code == 200:
                     with open(f"{edit_img_loc}", "wb") as out:
