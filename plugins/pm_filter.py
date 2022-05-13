@@ -816,7 +816,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('Home', callback_data='start'), 
             InlineKeyboardButton('stats', callback_data='stats'),             
-            InlineKeyboardButton('Next', callback_data='commandss')
+            InlineKeyboardButton('Next', callback_data='helpb')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -825,7 +825,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-    elif query.data == "commandss":
+    elif query.data == "helpb":
         buttons = [[
             InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂', callback_data='whois'),
             InlineKeyboardButton('𝙼𝚄𝚃𝙴', callback_data='restric'),
