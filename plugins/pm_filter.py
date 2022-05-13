@@ -840,13 +840,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
             InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
-         ]]
-         reply_markup = InlineKeyboardMarkup(buttons)
-         await query.message.edit_text(
-             text=script.COMMANDS_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
-             disable_web_page_preview=True,
-             reply_markup=reply_markup,
-             parse_mode='html'
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.COMMANDS_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
         ) 
             ######
     elif query.data == "about":
