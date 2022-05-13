@@ -15,9 +15,9 @@ async def bright(client, message):
             msg = await message.reply_to_message.reply_text(
                 "<b>𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙸𝙼𝙰𝙶𝙴....</b>", quote=True
             )
-            k = await client.download_media(message.reply_to_message.photo.file_id, file_name="filename.png",block=True)
-
-            print(k)
+            a = await client.download_media(
+                message=message.reply_to_message, file_name=download_location
+            )
             await msg.edit("<b>𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙸𝙼𝙰𝙶𝙴....</b>")
             image = Image.open(a)
             brightness = ImageEnhance.Brightness(image)
