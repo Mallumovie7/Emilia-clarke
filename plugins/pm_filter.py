@@ -843,10 +843,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
          ]]
          reply_markup = InlineKeyboardMarkup(buttons)
          await query.message.edit_text(
-            text=script.COMMANDS_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
-            disable_web_page_preview=True,
-            reply_markup=reply_markup,
-            parse_mode='html'
+             text=script.COMMANDS_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
+             disable_web_page_preview=True,
+             reply_markup=reply_markup,
+             parse_mode='html'
         ) 
             ######
     elif query.data == "about":
