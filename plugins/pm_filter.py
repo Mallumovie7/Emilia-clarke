@@ -745,13 +745,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🎥 ᏟᎻᎪΝΝᎬᏞ 🎥', url='https://t.me/RBLunainline'),
-            InlineKeyboardButton('🎀 ႮᏢᎠᎪͲᎬՏ 🎀', url='https://t.me/Tamil_moviesdaa')
+            InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Tanujairam')
             ],[      
-            InlineKeyboardButton('❓ ᏟϴᎷᎷᎪΝᎠՏ ❓', callback_data='commands'),
-            InlineKeyboardButton('😍 ᎪᏴϴႮͲ 😍', callback_data='about')
+            InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='commands'),
+            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
             InlineKeyboardButton('🔗 ՏႮᏴՏᏟᎡᏆᏴᎬ 🔗', url='https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA'),
             InlineKeyboardButton('🪞 ᎷᏆᎡᎡϴᎡ ᏴϴͲ 🪞', url='https://t.me/Luna_mirror_bot')
