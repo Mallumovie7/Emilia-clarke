@@ -814,7 +814,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙿𝙸𝙽𝙶', callback_data='pings'),
             InlineKeyboardButton('𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷', callback_data='tele')
             ],[
-            InlineKeyboardButton('ᏴᎪᏟᏦ', callback_data='start')
+            InlineKeyboardButton('Home', callback_data='start'), 
+            InlineKeyboardButton('stats', callback_data='stats'),             
+            InlineKeyboardButton('Next', callback_data='commandss')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
