@@ -1,5 +1,5 @@
 import re
-from os import environ
+from os import environ, os
 import asyncio
 import json
 from collections import defaultdict
