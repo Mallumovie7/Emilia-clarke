@@ -842,7 +842,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata')
             ],[
-            InlineKeyboardButton('Previous', callback_data='commands'). 
+            InlineKeyboardButton('Previous', callback_data='commands'), 
             InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats'), 
             InlineKeyboardButton('Home', callback_data='start') 
         ]]
