@@ -1,5 +1,3 @@
-#Made By @Don_Sflix
-
 import os
 import math
 import time
@@ -15,7 +13,7 @@ BOT_START_TIME = time.time()
 HEROKU_API_KEY = (os.environ.get("HEROKU_API_KEY", ""))
 #=====================================================
 
-@Client.on_message(filters.command('status'))
+@Client.on_message(filters.command('h_status'))
 async def bot_status(client,message):
     if HEROKU_API_KEY:
         try:
