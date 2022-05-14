@@ -1,6 +1,6 @@
 import wikipedia
 from pyrogram import Client,filters
-from plugins.Modukes.Wikipedia.Wiki_helpers.pluginhelpers import edit_or_reply
+from plugins.Modules.Wikipedia.Wiki_helpers.pluginhelpers import edit_or_reply
 from plugins.Modules.Wikipedia.Wiki_helpers.basic_helpers import get_text
 
 @Client.on_message(filters.command(["wiki", "Wikipedia"]))
