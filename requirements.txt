@@ -49,4 +49,4 @@ ffmpeg-python
 ffmpeg
 Pillow
 ujson
-geopy>=2.1.0
+py-tgcalls
