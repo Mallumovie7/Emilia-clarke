@@ -3,51 +3,15 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 ⚡🔥"""
     COMMANDS_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙴𝙼𝙸𝙻𝙸𝙰</b>
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Tanujairam>𝚃𝙰𝙽𝚄𝙹𝙰𝙸𝚁𝙰𝙼</a></b>
-<b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
-<b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
-<b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
-<b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
-<b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Tamil_moviesdaa>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</a></b>
-<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCl1EnIFvBwT7dPtgfOYnvPA>𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</a></b>"""
-    DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
+    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙴𝙼𝙸𝙻𝙸𝙰 𝙲𝙻𝙰𝚁𝙺𝙴</b>
+<b>✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Tanujairam>𝚃𝙰𝙽𝚄𝙹𝙰𝙸𝚁𝙰𝙼</a></b>
+<b>✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
+<b>✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
+<b>✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
+<b>✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>"""
+    FILE_TXT = """<b> 𝙵𝚒𝚕𝚎 𝚜𝚝𝚘𝚛𝚎 𝚖𝚘𝚍𝚞𝚕𝚎 </b>
 
-›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
-
-⪼ <b>𝐘𝐨𝐮 𝐂𝐚𝐧 𝐃𝐨𝐧𝐚𝐭𝐞 𝐀𝐧𝐲 𝐀𝐦𝐨𝐮𝐧𝐭 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 💳. 
-<b>━━━━━━━━━᚜ Payment Methods ᚛━━━━━━━━━
-✮ 𝗚𝗼𝗼𝗴𝗹𝗲𝗣𝗮𝘆
-✮ 𝗣𝗮𝘆𝘁𝗺
-✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
-✮ 𝗣𝗮𝘆𝗣𝗮𝗹
-_𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/balaSmurugan><b>𝓑𝓐𝓛𝓐𝓜𝓤𝓡𝓤𝓖𝓐𝓝</b></a> ᚛━━━━━━━━━━━━
-
-›› <b>𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b>
-
-⪼ <b>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐖𝐡𝐢𝐜𝐡 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐫𝐨𝐦𝐨𝐭𝐞 . 
-<b>━━━━━━━━━᚜ Payment Methods ᚛━━━━━━━━━
-✮ 𝗚𝗼𝗼𝗴𝗹𝗲𝗣𝗮𝘆
-✮ 𝗣𝗮𝘆𝘁𝗺
-✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
-✮ 𝗣𝗮𝘆𝗣𝗮𝗹
-_𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/balaSmurugan><b>𝓑𝓐𝓛𝓐𝓜𝓤𝓡𝓤𝓖𝓐𝓝</b></a> ᚛━━━━━━━━━━━━"""
-    PROMOTION_TXT = """<b>〄 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧 〄</b>
-
-⪼ <b>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐖𝐡𝐢𝐜𝐡 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐫𝐨𝐦𝐨𝐭𝐞 . 
-<b>━━━━━━━━━᚜ Payment Methods ᚛━━━━━━━━━
-✮ 𝗚𝗼𝗼𝗴𝗹𝗲𝗣𝗮𝘆
-✮ 𝗣𝗮𝘆𝘁𝗺
-✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
-✮ 𝗣𝗮𝘆𝗣𝗮𝗹
-_𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/balaSmurugan><b>𝓑𝓐𝓛𝓐𝓜𝓤𝓡𝓤𝓖𝓐𝓝</b></a> ᚛━━━━━━━━━━━━""" 
-    FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
-
-<b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
+𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...
 
 ⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 
@@ -57,9 +21,8 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/RBLunainline/3 https://t.me/RBLunainline/8</code>
-
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Tamil_moviesdaa><b>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</b></a>"""
+<code>/batch https://t.me/Rex_botz/1 https://t.me/Rex_botz/2</code>
+"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 •/whois :-give a user full details"""
@@ -97,8 +60,7 @@ Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
 ››  /mp3 for searching audio songs in youtube
 ››  /mp4 for searching video songs in youtube
-
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Tamil_moviesdaa>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</a>"""
+"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
@@ -191,21 +153,21 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--LUNA Supports both url and alert inline buttons.
+-Emilia Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. 𝙻𝚄𝙽𝙰 supports buttons with any telegram media type.
+2. Emilia supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Tamil_moviesdaa)</code>
+<code>[Button Text](buttonurl:https://t.me/REX_BOTZ)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙾𝙽/𝙾𝙵𝙵 𝙼𝙾𝙳𝚄𝙻𝙴..</b>
 
-<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙰𝙽𝙳 𝚂𝙰𝚅𝙴  𝚃𝙷?? 𝙵𝙸𝙻𝙴𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙻𝙻𝚈 𝙵𝚁𝙾𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙴 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝚃𝙾 𝙾𝙽 𝙰𝙽𝙳 𝙾𝙵𝙵 𝚃𝙷𝙴 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿.../</b>
+<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚃𝙾 𝚃𝚄𝚁𝙽 𝙾𝙵𝙵/𝙾𝙽 𝙵𝙸𝙻𝚃𝙴𝚁𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙻𝙻𝚈 𝙵𝚁𝙾𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙴 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝚃𝙾 𝙾𝙽 𝙰𝙽𝙳 𝙾𝙵𝙵 𝚃𝙷𝙴 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿.../</b>
 
 <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
 <b>›› /autofilter on - 𝙴𝙽𝙰𝙱𝙻𝙴 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿𝚂.</b>
@@ -213,7 +175,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 <b>›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 <b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 
-<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Tamil_moviesdaa>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</a></b>"""
+"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
@@ -230,7 +192,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-𝚃𝙷𝙴𝚂𝙴 𝙰𝚁𝙴 𝙴𝚇𝚃𝚁𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙻𝚄𝙽𝙰
+𝚃𝙷𝙴𝚂𝙴 𝙰𝚁𝙴 𝙴𝚇𝚃𝚁𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙴𝙼𝙸𝙻𝙸𝙰 𝙲𝙻𝙰𝚁𝙺𝙴
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
@@ -262,17 +224,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
-    DEVELOPER_TXT = """<b>𝙾𝚄𝚁 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
-<b>𝙻𝚄𝙽𝙰 𝙰𝙿𝙿 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁</b>
-   ★𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽
-𝙰𝙱𝙾𝚄𝚃:𝙻𝚄𝙽𝙰 𝙱𝙾𝚃𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁.
-<b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙸𝚅𝙴 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂</b>
-   ★𝚃𝙰𝙽𝚄𝙹𝙰𝙸𝚁𝙰𝙼
-𝙰𝙱𝙾𝚄𝚃:𝚁𝙴𝚇 𝙱𝙾𝚃𝚂 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁.
-   ★𝙰𝙰𝙳𝙷𝙸
-𝙰𝙱𝙾𝚄𝚃:𝙾𝙿𝚄𝚂 𝚃𝙴𝙲𝙷𝚉 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 𝙰𝙽𝙳 𝚈𝙾𝚄𝚃𝚄𝙱𝙴𝚁.
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙶𝚄𝚈𝚂 𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴 𝙳𝙰𝚈 𝙶𝚄𝚈𝚂"""
+  
     LOG_TEXT_G = """ΝᎬᏔᏀᎡϴႮᏢ
     
 <b>★ 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
@@ -347,9 +299,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
  <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
 
 ➪ /edit 𝙾𝚁 /photo 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 
-𝚃𝙾 𝙴𝙳𝙸𝚃 𝙸𝙼𝙰𝙶𝙴 𝙾𝚁 𝙿𝙷𝙾𝚃𝙾.🌹
-
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Tamil_moviesdaa>𝙻𝚄𝙽𝙰 𝚂𝚄𝙿𝙿𝙾𝚁𝚃</a>"""
+𝚃𝙾 𝙴𝙳𝙸𝚃 𝙸𝙼𝙰𝙶𝙴 𝙾𝚁 𝙿𝙷𝙾𝚃𝙾.🌹"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
