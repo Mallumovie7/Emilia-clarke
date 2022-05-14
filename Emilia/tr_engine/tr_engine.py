@@ -4,17 +4,14 @@ from operator import getitem
 from os import path
 from threading import RLock
 from traceback import format_exc
-
 from pyrogram.types import CallbackQuery
 from yaml import FullLoader
 from yaml import load as load_yml
-
-from Alita import ENABLED_LOCALES, LOGGER
+from Emilia import ENABLED_LOCALES, LOGGER
 from database.lang_db import Langs
 
 # Initialise
 LANG_LOCK = RLock()
-
 
 def cache_localizations(files):
     """Get all translated strings from files."""
@@ -25,13 +22,11 @@ def cache_localizations(files):
         ldict[lang_name] = lang_data
     return ldict
 
-
 # Get all translation files
 lang_files = []
 for locale in ENABLED_LOCALES:
     lang_files += glob(path.join("locales", f"{locale}.yml"))
 lang_dict = cache_localizations(lang_files)
-
 
 def tlang(m, user_msg):
     """Main function for getting the string of preferred language."""
