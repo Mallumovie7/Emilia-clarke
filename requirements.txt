@@ -52,3 +52,4 @@ ujson
 py-tgcalls
 pytz
 Wikipedia
+Heroku3
