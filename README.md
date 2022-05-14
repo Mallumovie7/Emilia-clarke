@@ -1,6 +1,8 @@
 ## 𝙴𝙼𝙸𝙻𝙸𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I+Am+Emilia+Clarke!;Made+by+Rex+botz! )
+
 <p align="center">
-  <img src="https://telegra.ph/file/f9c7bf746a6d9ab9956e8.jpg" alt="𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂Logo">
+  <img src="https://telegra.ph/file/f9c7bf746a6d9ab9956e8.jpg" alt="Logo">
 </p>
 
 ## Features
