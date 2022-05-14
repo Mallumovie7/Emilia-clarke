@@ -50,3 +50,4 @@ ffmpeg
 Pillow
 ujson
 py-tgcalls
+pyt
