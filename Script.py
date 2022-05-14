@@ -95,8 +95,8 @@ Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 <b>𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙳𝙸𝙽𝙶 𝚅𝙸𝙳𝙴𝙾𝚂 𝙰𝙽𝙳 𝚂𝙾𝙽𝙶𝚂 𝚆𝙸𝚃𝙷 𝙷𝙴𝙻𝙿 𝙾𝙵 𝚈𝙾𝚄𝚃𝚄𝙱𝙴</b>
 
 <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
-
-››  /mp4 𝚂𝙴𝙰𝚁𝙲𝙷𝙸𝙽𝙶 𝙽𝙰𝙼𝙴 
+››  /mp3 for searching audio songs in youtube
+››  /mp4 for searching video songs in youtube
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Tamil_moviesdaa>𝚃𝙰𝙼𝙸𝙻-𝙼𝙾𝚅𝙸𝙴𝚂</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
