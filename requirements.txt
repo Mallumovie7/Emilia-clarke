@@ -54,3 +54,4 @@ pytz
 Wikipedia
 Heroku3
 prettyconf
+pyyaml
