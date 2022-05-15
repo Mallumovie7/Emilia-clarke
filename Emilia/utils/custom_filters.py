@@ -2,20 +2,17 @@ from re import compile as compile_re
 from re import escape
 from shlex import split
 from typing import List, Union
-
 from pyrogram.errors import RPCError, UserNotParticipant
 from pyrogram.filters import create
 from pyrogram.types import CallbackQuery, Message
-
-from Alita import DEV_USERS, OWNER_ID, SUDO_USERS
+from Emilia import DEV_USERS, OWNER_ID, SUDO_USERS
 from database.disable_db import Disabling
-from Alita.tr_engine import tlang
-from Alita.utils.caching import ADMIN_CACHE, admin_cache_reload
-from Alita.vars import Config
+from Emilia.tr_engine import tlang
+from Emilia.utils.caching import ADMIN_CACHE, admin_cache_reload
+from Emilia.vars import Config
 
 SUDO_LEVEL = set(SUDO_USERS + DEV_USERS + [int(OWNER_ID)])
 DEV_LEVEL = set(DEV_USERS + [int(OWNER_ID)])
-
 
 def command(
     commands: Union[str, List[str]],
