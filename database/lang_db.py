@@ -1,7 +1,7 @@
 from threading import RLock
 from time import time
 from Emilia import LOGGER
-from database import MongoDB
+from database.mangodb import MongoDB
 
 INSERTION_LOCK = RLock()
 
