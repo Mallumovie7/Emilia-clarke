@@ -55,3 +55,4 @@ Wikipedia
 Heroku3
 prettyconf
 pyyaml
+cachetools
