@@ -1,14 +1,13 @@
 from pyrogram import filters
 from pyrogram.errors import PeerIdInvalid, RPCError, UserNotParticipant
 from pyrogram.types import CallbackQuery, ChatPermissions, Message
-
 from Emilia import LOGGER, SUPPORT_GROUP
 from pyrogram import Client as Alita
 from database.approve_db import Approve
 from Emilia.utils.custom_filters import admin_filter, command, owner_filter
 from Emilia.utils.extract_user import extract_user
 from Emilia.utils.kbhelpers import ikb
-from Alita.utils.parser import mention_html
+from Emilia.utils.parser import mention_html
 
 @Alita.on_message(command("approve") & admin_filter)
 async def approve_user(c: Alita, m: Message):
