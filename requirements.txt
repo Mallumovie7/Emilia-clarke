@@ -56,3 +56,4 @@ Heroku3
 prettyconf
 pyyaml
 cachetools
+telethon==1.16.4
