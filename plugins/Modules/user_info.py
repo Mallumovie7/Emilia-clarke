@@ -14,6 +14,7 @@ from plugins.helper_functions.last_online_hlpr import last_online
 )
 async def who_is(client, message):
     status_message = await message.reply_text(
+        " Getting user details 👤"
     )
     from_user = None
     from_user_id, _ = extract_user(message)
