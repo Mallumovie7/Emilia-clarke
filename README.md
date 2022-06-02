@@ -1,4 +1,4 @@
-## 𝙴𝙼𝙸𝙻𝙸𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
+## 𝙴𝙼𝙸𝙻𝙸𝙰
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I+Am+Emilia+Clarke!;Made+by+Rex+botz! )
 
 <p align="center">
