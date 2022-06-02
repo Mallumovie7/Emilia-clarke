@@ -197,7 +197,6 @@ def __pre_req_disabling():
     LOGGER.info("Starting disabling Database Repair ...")
     collection = MongoDB(Disabling.db_name)
     Disabling.repair_db(collection)
-    LOGGER.info(f"Done in {round((time() - start), 3)}s!")
 
 
 __pre_req_disabling()
