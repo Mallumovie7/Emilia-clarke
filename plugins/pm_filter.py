@@ -868,7 +868,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "restric":
         buttons = [[
-            InlineKeyboardButton('🔙 ʙᴀᴄᴋ', callback_data='helpb')
+            InlineKeyboardButton('🔙 ʙᴀᴄᴋ', callback_data='helpb'), 
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
