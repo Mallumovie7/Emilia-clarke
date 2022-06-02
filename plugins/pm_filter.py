@@ -349,12 +349,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         if mkact:
             await query.message.edit_text(
-                f"ᏟϴΝΝᎬᏟͲ Ͳϴ **{title}**",
+                f"𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚝𝚘**{title}**",
                 parse_mode="md"
             )
         else:
-            await query.message.edit_text('ՏϴᎷᎬ ᎬᎡᎡϴᎡ ϴᏟᏟႮᎡᎬᎠ!!', parse_mode="md")
-        return await query.answer('ᏢᏞᎬᎪՏᎬ ՏᎻᎪᎡᎬ ᎪΝᎠ ՏႮᏢᏢϴᎡͲ')
+            await query.message.edit_text('𝚂𝚘𝚖𝚎 𝚎𝚛𝚛𝚘𝚛 𝚘𝚌𝚌𝚞𝚛𝚎𝚍', parse_mode="md")
+        return await query.answer('𝙿𝚕𝚎𝚊𝚜𝚎 𝚜𝚑𝚊𝚛𝚎 𝚊𝚗𝚍 𝚜𝚞𝚙𝚙𝚘𝚛𝚝')
     elif "disconnect" in query.data:
         await query.answer()
 
@@ -369,12 +369,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         if mkinact:
             await query.message.edit_text(
-                f"ᎠᏆՏᏟϴΝΝᎬᏟͲᎬᎠ ҒᎡϴᎷ **{title}**",
+                f"𝙳𝚒𝚜𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚎𝚍 𝚏𝚛𝚘𝚖**{title}**",
                 parse_mode="md"
             )
         else:
             await query.message.edit_text(
-                f"ՏϴᎷᎬ ᎬᎡᎡϴᎡ ϴᏟᏟႮᎡᎬᎠ!!",
+                f"𝚂𝚘𝚖𝚎 𝚎𝚛𝚛𝚘𝚛 𝚘𝚌𝚌𝚞𝚛𝚎𝚍!!",
                 parse_mode="md"
             )
         return
@@ -388,14 +388,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         if delcon:
             await query.message.edit_text(
-                "ՏႮᏟᏟᎬՏՏҒႮᏞᏞᎽ ᎠᎬᏞᎬͲᎬᎠ ᏟϴΝΝᎬᏟͲᏆϴΝ"
+                "𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢 𝚍𝚒𝚜𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚎𝚍 𝚢𝚘𝚞𝚛 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚘𝚗"
             )
         else:
             await query.message.edit_text(
-                f"ՏϴᎷᎬ ᎬᎡᎡϴᎡ ϴᏟᏟႮᎡᎬᎠ!!",
+                f"𝚂𝚘𝚖𝚎 𝚎𝚛𝚛𝚘𝚛 𝚘𝚌𝚌𝚞𝚛𝚎𝚍!!",
                 parse_mode="md"
             )
-        return await query.answer('ᏢᏞᎬᎪՏᎬ ՏᎻᎪᎡᎬ ᎪΝᎠ ՏႮᏢᏢϴᎡͲ')
+        return await query.answer('𝙿𝚕𝚎𝚊𝚜𝚎 𝚜𝚑𝚊𝚛𝚎 𝚊𝚗𝚍 𝚜𝚞𝚙𝚙𝚘𝚛𝚝')
     elif query.data == "backcb":
         await query.answer()
 
@@ -404,9 +404,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         groupids = await all_connections(str(userid))
         if groupids is None:
             await query.message.edit_text(
-                "ͲᎻᎬᎡᎬ ᎪᎡᎬ Νϴ ᎪᏟͲᏆᏙᎬ ᏟϴΝΝᎬᏟͲᏆϴΝՏ!! ᏟϴΝΝᎬᏟᏟͲ Ͳϴ ՏϴᎷᎬ ᏀᎡϴႮᏢՏ ҒᏆᎡՏͲ.",
+                "𝚃𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚗𝚘 𝚊𝚌𝚝𝚒𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚘𝚗𝚜",
             )
-            return await query.answer('ᏢᏞᎬᎪՏᎬ ՏᎻᎪᎡᎬ ᎪΝᎠ ՏႮᏢᏢϴᎡͲ')
+            return await query.answer('𝙿𝚕𝚎𝚊𝚜𝚎 𝚜𝚑𝚊𝚛𝚎 𝚊𝚗𝚍 𝚜𝚞𝚙𝚙𝚘𝚛𝚝')
         buttons = []
         for groupid in groupids:
             try:
@@ -475,19 +475,19 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 )
                 await query.answer('𝙲𝙷𝙴𝙲𝙺 𝙿𝙼, 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙿𝙼', show_alert=True)
         except UserIsBlocked:
-            await query.answer('ᎽϴႮ ᎪᎡᎬ ᏴᏞϴᏟᏦᎬᎠ Ͳϴ ႮՏᎬ ᎷᎬ', show_alert=True)
+            await query.answer('𝚈𝚘𝚞𝚛 𝚊𝚛𝚎 𝚋𝚕𝚘𝚌𝚔𝚎𝚍 𝚝𝚘 𝚞𝚜𝚎 𝚖𝚎,𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚐𝚛𝚘𝚞𝚙 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘', show_alert=True)
         except PeerIdInvalid:
             await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
         except Exception as e:
             await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
     elif query.data.startswith("checksub"):
         if AUTH_CHANNEL and not await is_subscribed(client, query):
-            await query.answer("Ꮖ ᏞᏆᏦᎬ ᎽϴႮᎡ ՏᎷᎪᎡͲΝᎬՏՏ, ᏴႮͲ ᎠϴΝ'Ͳ ᏴᎬ ϴᏙᎬᎡ ՏᎷᎪᎡͲ ϴᏦᎬᎽ", show_alert=True)
+            await query.answer("𝙸 𝚕𝚒𝚔𝚎 𝚢𝚘𝚞𝚛 𝚜𝚖𝚊𝚛𝚝𝚗𝚎𝚜𝚜 𝚋𝚞𝚝 𝚍𝚘𝚗𝚝 𝚋𝚎 𝚘𝚟𝚎𝚛 𝚜𝚖𝚊𝚛𝚝", show_alert=True)
             return
         ident, file_id = query.data.split("#")
         files_ = await get_file_details(file_id)
         if not files_:
-            return await query.answer('Νϴ ՏႮᏟᎻ ҒᏆᏞᎬ ᎬХᏆՏͲ.')
+            return await query.answer('𝙽𝚘 𝚜𝚞𝚌𝚑 𝚏𝚒𝚕𝚎 𝚎𝚡𝚒𝚜𝚝𝚜.')
         files = files_[0]
         title = files.file_name
         size = get_size(files.file_size)
@@ -1225,7 +1225,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode='html'
         )
     elif query.data == "rfrsh":
-        await query.answer("Fetching MongoDb DataBase")
+        await query.answer("Fetching MongoDb DataBase 🥭 ")
         buttons = [[
             InlineKeyboardButton('🔙 ʙᴀᴄᴋ', callback_data='help'),
             InlineKeyboardButton('♻️ ʀᴇғʀᴇsʜ', callback_data='rfrsh')
@@ -1248,7 +1248,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         grpid = await active_connection(str(query.from_user.id))
 
         if str(grp_id) != str(grpid):
-            await query.message.edit("ᎽϴႮᎡ ᎪᏟͲᏆᏙᎬ ᏟϴΝΝᎬᏟͲᏆϴΝՏ ᎻᎪՏ ᏴᎬᎬΝ ᏟᎻᎪΝᏀᎬᎠ. Ꮐϴ Ͳϴ /settings.")
+            await query.message.edit("𝚈𝚘𝚞𝚛 𝚊𝚌𝚝𝚒𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚘𝚗 𝚑𝚊𝚜 𝚋𝚎𝚎𝚗 𝚌𝚑𝚊𝚗𝚐𝚎𝚍, 𝙶𝚘 𝚝𝚘 /settings.")
             return 
 
         if status == "True":
@@ -1348,12 +1348,12 @@ async def auto_filter(client, msg, spoll=False):
         BUTTONS[key] = search
         req = message.from_user.id if message.from_user else 0
         btn.append(
-            [InlineKeyboardButton(text=f"🌹 ᏢᎪᏀᎬ 1/{round(int(total_results) / 10)}", callback_data="pages"),
-             InlineKeyboardButton(text="ΝᎬХͲ ➡️", callback_data=f"next_{req}_{key}_{offset}")]
+            [InlineKeyboardButton(text=f"🌹 𝙿𝚊𝚐𝚎 1/{round(int(total_results) / 10)}", callback_data="pages"),
+             InlineKeyboardButton(text="𝙽𝚎𝚡𝚝 ➡️", callback_data=f"next_{req}_{key}_{offset}")]
         )
     else:
         btn.append(
-            [InlineKeyboardButton(text="🌹 ᏢᎪᏀᎬ 1/1", callback_data="pages")]
+            [InlineKeyboardButton(text="🌹 𝙿𝚊𝚐𝚎 1/1", callback_data="pages")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
@@ -1392,7 +1392,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"ᎻᎬᎡᎬ ᏆՏ ᏔᎻᎪͲ Ꮖ ҒϴႮΝᎠ ҒϴᎡ ᎽϴႮᎡ ϘႮᎪᎡᎽ {search}"
+        cap = f"𝙷𝚎𝚛𝚎 𝚒𝚜 𝚝𝚑𝚎 𝚛𝚎𝚜𝚞𝚕𝚝𝚜 𝚏𝚘𝚛 𝚢𝚘𝚞𝚛 𝚚𝚞𝚎𝚛𝚢 {search}"
     if imdb and imdb.get('poster'):
         try:
             await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024],
@@ -1418,7 +1418,7 @@ async def advantage_spell_chok(msg):
     g_s += await search_gagala(msg.text)
     gs_parsed = []
     if not g_s:
-        k = await msg.reply("Ꮖ ᏟϴႮᏞᎠΝ'Ͳ ҒᏆΝᎠ ᎪΝᎽ ᎷϴᏙᏆᎬ ᏆΝ ͲᎻᎪͲ ΝᎪᎷᎬ.")
+        k = await msg.reply("𝙸 𝚌𝚘𝚞𝚕𝚍 𝚗𝚘𝚝 𝚏𝚒𝚗𝚍 𝚊𝚗𝚍 𝚖𝚘𝚟𝚒𝚎 𝚒𝚗 𝚝𝚑𝚊𝚝 𝚗𝚊𝚖𝚎.")
         await asyncio.sleep(8)
         await k.delete()
         return
@@ -1447,7 +1447,7 @@ async def advantage_spell_chok(msg):
     movielist += [(re.sub(r'(\-|\(|\)|_)', '', i, flags=re.IGNORECASE)).strip() for i in gs_parsed]
     movielist = list(dict.fromkeys(movielist))  # removing duplicates
     if not movielist:
-        k = await msg.reply("Ꮖ ᏟϴႮᏞᎠΝ'Ͳ ҒᏆΝҒ ᎪΝᎽͲᎻᏆΝᏀ ᎡᎬᏞᎪͲᎬᎠ Ͳϴ ͲᎻᎪͲ. ᏟᎻᎬᏟᏦ ᎽϴႮᎡ ՏᏢᎬᏞᏞᏆΝᏀ.")
+        k = await msg.reply("𝙸 𝚌𝚘𝚞𝚕𝚍 𝚗𝚘𝚝 𝚏𝚒𝚗𝚍 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚝𝚘 𝚝𝚑𝚊𝚝, 𝙿𝚕𝚎𝚊𝚜𝚎 𝚌𝚑𝚎𝚌𝚔 𝚢𝚘𝚞𝚛 𝚜𝚙𝚎𝚕𝚕𝚒𝚗𝚐.")
         await asyncio.sleep(8)
         await k.delete()
         return
