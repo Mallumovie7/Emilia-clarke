@@ -9,7 +9,7 @@ class script(object):
 <b>✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>"""
-    FILE_TXT = """ 𝗙𝗶𝗹𝗲 𝘀𝘁𝗼𝗿𝗲 
+    FILE_TXT = """➤ 𝗙𝗶𝗹𝗲 𝘀𝘁𝗼𝗿𝗲 
 
 𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...
 
@@ -23,10 +23,10 @@ class script(object):
 
 <code>/batch https://t.me/Rex_botz/1 https://t.me/Rex_botz/2</code>
 """
-    WHOIS_TXT ="""𝗪𝗵𝗼 𝗶𝘀 ?
+    WHOIS_TXT ="""➤ 𝗪𝗵𝗼 𝗶𝘀 ?
 Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 •/whois :-give a user full details"""
-    FUN_TXT ="""𝗙𝘂𝗻𝘀 𝗺𝗼𝗱𝘂𝗹𝗲 
+    FUN_TXT ="""➤ 𝗙𝘂𝗻𝘀 𝗺𝗼𝗱𝘂𝗹𝗲 
     
 <b>⚡ 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶'𝚂 ⚡</b>
  
@@ -37,7 +37,7 @@ Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺
 6. /throw_ball - Throw a ball
 7. /basket_throw - Throw ball on basket"""
-    MANUELFILTER_TXT = """𝗠𝗮𝗻𝘂𝗮𝗹 𝗳𝗶𝗹𝘁𝗲𝗿
+    MANUELFILTER_TXT = """ ➤ 𝗠𝗮𝗻𝘂𝗮𝗹 𝗳𝗶𝗹𝘁𝗲𝗿
 
 - Filter is the feature were users can set automated replies for a particular keyword and  will respond whenever a keyword is found the message
 
@@ -51,7 +51,7 @@ Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    YTSEARCH_TXT = """𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼 𝗮𝗻𝗱 𝗮𝘂𝗱𝗶𝗼 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 
+    YTSEARCH_TXT = """➤ 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼 𝗮𝗻𝗱 𝗮𝘂𝗱𝗶𝗼 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 
 
 <b>𝚈𝚃 𝚅𝙸𝙳𝙴𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴, 𝙵𝙾𝚁 𝚃𝙷𝙾𝚂𝙴 𝚆𝙷𝙾 𝙻𝙾𝚅𝙴 𝙼𝚄𝚂𝙸𝙲. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙵𝙴𝙰𝚃𝚄𝙴 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾 𝚅𝙾𝙸𝙲𝙴 𝙰𝙽𝙳 𝙱𝙶𝙼 𝙻𝙸𝙺𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝚆𝙸𝚃𝙷 𝚂𝚄𝙿𝙴𝚁 𝙵𝙰𝚂𝚃 𝚂𝙿𝙴𝙴𝙳.𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿𝚂../</b>
 
@@ -61,7 +61,7 @@ Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 ››  /mp3 for searching audio songs in youtube
 ››  /mp4 for searching video songs in youtube
 """
-    PIN_TXT =""" 𝗣𝗶𝗻 𝗠𝗲𝘀𝘀𝗮𝗴𝗲
+    PIN_TXT ="""➤ 𝗣𝗶𝗻 𝗠𝗲𝘀𝘀𝗮𝗴𝗲
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
 <b>𝙰𝙻𝙻 𝚃𝙷𝙴 𝙿𝙸𝙽 𝚁𝙴𝙻𝙰𝚃𝙴𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙲𝙰𝙽 𝙱𝙴 𝙵𝙾𝚄𝙽𝙳 𝙷𝙴𝚁𝙴::</b>
@@ -70,7 +70,7 @@ Note:- 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄𝚁 𝙳𝙴𝚃𝙰𝙸𝙻𝚂
 
 ◉ /pin :- 𝚃𝙾 𝙿𝙸𝙽 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝙽 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝚃𝚂
 ◉ /unpin :- 𝚃𝙾 𝚄𝙽𝙿𝙸𝙽 𝚃𝙷𝙴 𝙲𝚄𝚁𝚁𝙴𝙴𝙽𝚃 𝙿𝙸𝙽𝙽𝙴𝙳 𝙼𝙴𝚂𝙰𝙰𝙶𝙴"""
-    PASTE_TXT = """𝗧𝗲𝘅𝘁 𝗽𝗮𝘀𝘁𝗲𝗿
+    PASTE_TXT = """➤ 𝗧𝗲𝘅𝘁 𝗽𝗮𝘀𝘁𝗲𝗿
 
 Paste some texts or documents on a website!
 
@@ -82,7 +82,7 @@ Paste some texts or documents on a website!
 
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
-    TTS_TXT = """𝗧𝗲𝘅𝘁 𝘁𝗼 𝘀𝗽𝗲𝗲𝗰𝗵
+    TTS_TXT = """➤ 𝗧𝗲𝘅𝘁 𝘁𝗼 𝘀𝗽𝗲𝗲𝗰𝗵
 
 𝚃𝚁𝙰𝙽𝚂𝙻𝙰𝚃𝙴 𝚃𝙴𝚇𝚃 𝚃𝙾 𝚂𝙿𝙴𝙴𝙲𝙷
 
@@ -95,7 +95,7 @@ Paste some texts or documents on a website!
 • IMDb should have admin privillage.
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
-    PINGS_TXT ="""𝗣𝗶𝗻𝗴𝘀
+    PINGS_TXT ="""➤ 𝗣𝗶𝗻𝗴𝘀
 
 𝙷𝙴𝙻𝙿𝚂 𝚃𝙾 𝚈𝙾𝚄 𝙺𝙽𝙾𝚆𝚂 𝚈𝙾𝚄𝚁 𝙿𝙸𝙽𝙶 🚶🏼‍♂️
 
@@ -112,7 +112,7 @@ Paste some texts or documents on a website!
 • This commands can be used in pms and groups
 • This commands can be used buy everyone in the groups and bots pm
 • Share us for more features"""
-    TELE_TXT = """𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝘂𝗽𝗹𝗼𝗮𝗱𝗲𝗿
+    TELE_TXT = """ ➤ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝘂𝗽𝗹𝗼𝗮𝗱𝗲𝗿
 
 Do as you wish with telegra.ph module!
 
@@ -125,7 +125,7 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    JSON_TXT ="""𝗝𝘀𝗼𝗻
+    JSON_TXT ="""➤ 𝗝𝘀𝗼𝗻
 
 Bot returns json for all replied messages with /json
 
@@ -138,14 +138,14 @@ Group Support
 <b>Note:</b>
 
 Everyone can use this command , if spaming happens bot will automatically ban you from the group."""
-    PURGE_TXT = """𝗣𝘂𝗿𝗴𝗲 𝗼𝗿 𝗱𝗲𝗹𝗲𝘁𝗲
+    PURGE_TXT = """➤ 𝗣𝘂𝗿𝗴𝗲 𝗼𝗿 𝗱𝗲𝗹𝗲𝘁𝗲
     
 𝙳𝙴𝙻𝙴𝚃𝙴 𝙻𝙾𝚃 𝙾𝙵 𝙼𝙴𝚂𝚂𝙰𝙶𝙴𝚂 𝙵𝚁𝙾𝙼 𝙶𝚁𝙾𝚄𝙿! 
     
  <b>ADMIN</b> 
 
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
-    BUTTON_TXT = """𝗕𝘂𝘁𝘁𝗼𝗻𝘀
+    BUTTON_TXT = """➤ 𝗕𝘂𝘁𝘁𝗼𝗻𝘀
 
 -Emilia Supports both url and alert inline buttons.
 
@@ -159,7 +159,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """𝗔𝘂𝘁𝗼𝗳𝗶𝗹𝘁𝗲𝗿
+    AUTOFILTER_TXT = """➤ 𝗔𝘂𝘁𝗼𝗳𝗶𝗹𝘁𝗲𝗿
 
 <b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚃𝙾 𝚃𝚄𝚁𝙽 𝙾𝙵𝙵/𝙾𝙽 𝙵𝙸𝙻𝚃𝙴𝚁𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙻𝙻𝚈 𝙵𝚁𝙾𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙴 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝚃𝙾 𝙾𝙽 𝙰𝙽𝙳 𝙾𝙵𝙵 𝚃𝙷𝙴 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿.../</b>
 
@@ -170,7 +170,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 <b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 
 """
-    CONNECTION_TXT = """𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻
+    CONNECTION_TXT = """➤ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻
 
 - Used to connect bot to PM for managing filters 
 - it helps to avoid spamming in groups.
@@ -183,7 +183,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """𝗘𝘅𝘁𝗿𝗮 𝗺𝗼𝗱𝘂𝗹𝗲𝘀
+    EXTRAMOD_TXT = """➤ 𝗘𝘅𝘁𝗿𝗮 𝗺𝗼𝗱𝘂𝗹𝗲𝘀
 
 <b>NOTE:</b>
 𝚃𝙷𝙴𝚂𝙴 𝙰𝚁𝙴 𝙴𝚇𝚃𝚁𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙴𝙼𝙸𝙻𝙸𝙰 𝙲𝙻𝙰𝚁𝙺𝙴
@@ -193,7 +193,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>"""
-    ADMIN_TXT = """𝗔𝗱𝗺𝗶𝗻𝘀
+    ADMIN_TXT = """➤ 𝗔𝗱𝗺𝗶𝗻𝘀
 
 <b>NOTE:</b>
 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝙾𝙽𝙻𝚈 𝚆𝙾𝚁𝙺𝚂 𝙵𝙾𝚁 𝙼𝚈 𝙰𝙳𝙼𝙸𝙽𝚂
@@ -230,7 +230,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 <b>★ 𝐈𝐃 - <code>{}</code></b>
 <b>★ 𝐍𝐚𝐦𝐞 - {}</b>
 """
-    REPORT_TXT = """𝗥𝗲𝗽𝗼𝗿𝘁
+    REPORT_TXT = """➤ 𝗥𝗲𝗽𝗼𝗿𝘁
 
 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚛𝚎𝚙𝚘𝚛𝚝 𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚘𝚛 𝚊 𝚞𝚜𝚎𝚛 𝚝𝚘 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚜𝚙𝚎𝚌𝚝𝚒𝚟𝚎 𝚐𝚛𝚘𝚞𝚙. 𝙳𝚘𝚗'𝚝 𝚖𝚒𝚜𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍.
 
@@ -238,7 +238,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 
 ➪/report 𝗈𝗋 @admins - 𝖳𝗈 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺 𝗎𝗌𝖾𝗋 𝗍𝗈 𝗍𝗁𝖾 𝖺𝖽𝗆𝗂𝗇𝗌 (𝗋𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺 𝗆𝖾𝗌𝗌𝖺𝗀𝖾)."""
 
-    CORONA_TXT = """𝗖𝗼𝘃𝗶𝗱
+    CORONA_TXT = """➤ 𝗖𝗼𝘃𝗶𝗱
 
 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚍𝚊𝚒𝚕𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚟𝚒𝚍 
 
@@ -249,7 +249,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
 <code>/covid 𝖨𝗇𝖽𝗂𝖺</code>"""
 
-    URLSHORT_TXT = """𝗨𝗿𝗹 𝘀𝗵𝗼𝗿𝘁𝗻𝗲𝗿
+    URLSHORT_TXT = """➤ 𝗨𝗿𝗹 𝘀𝗵𝗼𝗿𝘁𝗻𝗲𝗿
 
 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚜𝚑𝚘𝚛𝚝 𝚊 𝚞𝚛𝚕 
 
@@ -260,7 +260,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
 <code>/short https://youtu.be/CPuvm126KPA</code>"""
 
-    VIDEO_TXT ="""𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝘁
+    VIDEO_TXT ="""➤ 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝘁
 
 • 𝘜𝘴𝘢𝘨𝘦
 𝚈𝙾𝚄 𝙲𝙰𝙽 𝙳𝙾𝚆𝙽𝙻𝙾𝙳𝙴 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴
@@ -271,7 +271,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 <code>/mp4 https://youtu.be/CPuvm126KPA</code>
 <code>/video https://youtu.be/CPuvm126KPA</code>"""
 
-    ZOMBIES_TXT = """𝗞𝗶𝗰𝗸 𝘂𝘀𝗲𝗿𝘀
+    ZOMBIES_TXT = """➤ 𝗞𝗶𝗰𝗸 𝘂𝘀𝗲𝗿𝘀
 
 <b>Kick incative members from group. Add me as admin with ban users permission in group.</b>
 
@@ -282,7 +282,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 • /inkick long_time_ago - to kick members who are offline for more than a month and Deleted Accounts.
 • /dkick - to kick deleted accounts."""
 
-    IMAGE_TXT = """𝗜𝗺𝗮𝗴𝗲 𝗲𝗱𝗶𝘁
+    IMAGE_TXT = """➤ 𝗜𝗺𝗮𝗴𝗲 𝗲𝗱𝗶𝘁
 
 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚎𝚍𝚒𝚝 𝚒𝚖𝚊𝚐𝚎 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚒𝚕𝚢 
 
@@ -295,7 +295,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 
 """
 
-    STICKER_TXT = """𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗶𝗱
+    STICKER_TXT = """➤ 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 𝗶𝗱
     𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
 𝚃𝙾 𝙶𝙴𝚃 𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙸𝙳
@@ -304,7 +304,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 
 ◉ 𝚁𝚎𝚙𝚕𝚊𝚢 𝚝𝚘 𝚜𝚝𝚒𝚌𝚔𝚎𝚛 [/stickerid]"""
 
-    YTTHUMB_TXT = """𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘁𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿
+    YTTHUMB_TXT = """➤ 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘁𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿
     𝙷𝙴𝙻𝙿𝚂 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝚅𝙸𝙳𝙴𝙾 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻
     
 ⭕𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
@@ -313,7 +313,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦
 <code>/ytthumb https://youtu.be/CPuvm126KPA</code>"""
 
-    ABOOK_TXT = """𝗔𝘂𝗱𝗶𝗼𝗯𝗼𝗼𝗸
+    ABOOK_TXT = """➤ 𝗔𝘂𝗱𝗶𝗼𝗯𝗼𝗼𝗸
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚟𝚎𝚛𝚝 𝚊 𝙿𝙳𝙵 𝚏𝚒𝚕𝚎 𝚝𝚘 𝚊 𝚊𝚞𝚍𝚒𝚘 𝚏𝚒𝚕𝚎 𝚠𝚒𝚝𝚑 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 ✯
 
@@ -321,7 +321,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 
 ➪ /audiobook: 𝖱𝖾𝗉𝗅𝗒 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗈 𝖺𝗇𝗒 𝖯𝖣𝖥 𝗍𝗈 𝗀𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝗍𝗁𝖾 𝖺𝗎𝖽𝗂𝗈"""
 
-    GTRANS_TXT = """𝗚𝗼𝗼𝗴𝗹𝗲 𝘁𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗼𝗿
+    GTRANS_TXT = """➤ 𝗚𝗼𝗼𝗴𝗹𝗲 𝘁𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗼𝗿
 
 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚝𝚛𝚊𝚗𝚜𝚕𝚊𝚝𝚎 𝚊 𝚝𝚎𝚡𝚝 𝚝𝚘 𝖺𝗇𝗒 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝. 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚜 𝚘𝚗 𝚋𝚘𝚝𝚑 𝚙𝚖 𝚊𝚗𝚍 𝚐𝚛𝚘𝚞𝚙 ✯
 
@@ -337,7 +337,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 • 𝗆𝗅 = 𝖬𝖺𝗅𝖺𝗒𝖺𝗅𝖺𝗆
 • 𝗁𝗂 = 𝖧𝗂𝗇𝖽𝗂"""
 
-    RESTRIC_TXT = """𝗥𝗲𝘀𝘁𝗿𝗶𝗰𝘁𝗶𝗼𝗻𝘀
+    RESTRIC_TXT = """➤ 𝗥𝗲𝘀𝘁𝗿𝗶𝗰𝘁𝗶𝗼𝗻𝘀
 
 𝚃𝚑𝚎𝚜𝚎 𝚊𝚛𝚎 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊 𝚐𝚛𝚘𝚞𝚙 𝚊𝚍𝚖𝚒𝚗 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚘 𝚖𝚊𝚗𝚊𝚐𝚎 𝚝𝚑𝚎𝚒𝚛 𝚐𝚛𝚘𝚞𝚙 𝚖𝚘𝚛𝚎 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝𝚕𝚢.
 
