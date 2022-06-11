@@ -63,6 +63,7 @@ Filter is the feature were users can set automated replies for a particular keyw
 ⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 • /pin :- 𝚃𝙾 𝙿𝙸𝙽 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝙽 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝚃𝚂
 • /unpin :- 𝚃𝙾 𝚄𝙽𝙿𝙸𝙽 𝚃𝙷𝙴 𝙲𝚄𝚁𝚁𝙴𝙴𝙽𝚃 𝙿𝙸𝙽𝙽𝙴𝙳 𝙼𝙴𝚂𝙰𝙰𝙶𝙴"""
+    
     PASTE_TXT = """➤ 𝗧𝗲𝘅𝘁 𝗽𝗮𝘀𝘁𝗲𝗿
 Paste some texts or documents on a website!
 
@@ -73,6 +74,7 @@ Paste some texts or documents on a website!
 
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
+    
     TTS_TXT = """➤ 𝗧𝗲𝘅𝘁 𝘁𝗼 𝘀𝗽𝗲𝗲𝗰𝗵
 𝚃𝚁𝙰𝙽𝚂𝙻𝙰𝚃𝙴 𝚃𝙴𝚇𝚃 𝚃𝙾 𝚂𝙿𝙴𝙴𝙲𝙷
 
@@ -84,6 +86,7 @@ Paste some texts or documents on a website!
 • IMDb should have admin privillage.
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
+    
     PINGS_TXT ="""➤ 𝗣𝗶𝗻𝗴𝘀
 𝙷𝙴𝙻𝙿𝚂 𝚃𝙾 𝚈𝙾𝚄 𝙺𝙽𝙾𝚆𝚂 𝚈𝙾𝚄𝚁 𝙿𝙸𝙽𝙶 🚶🏼‍♂️
 
@@ -96,6 +99,7 @@ Note
 • This commands can be used in pms and groups
 • This commands can be used buy everyone in the groups and bots pm
 • Share us for more features"""
+    
     TELE_TXT = """ ➤ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝘂𝗽𝗹𝗼𝗮𝗱𝗲𝗿
 
 Do as you wish with telegra.ph module!
@@ -108,6 +112,7 @@ Do as you wish with telegra.ph module!
 
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
+    
     IP_TXT = """ ➤ 𝗜𝗽 𝗮𝗱𝗱𝗿𝗲𝘀𝘀 𝘁𝗿𝗮𝗰𝗸𝗲𝗿
     
     """
