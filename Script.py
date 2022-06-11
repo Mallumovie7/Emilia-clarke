@@ -124,8 +124,8 @@ Do as you wish with telegra.ph module!
 
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
-    IP_TXT = 
-""" 𝗜𝗽 𝗮𝗱𝗱𝗿𝗲𝘀𝘀 𝘁𝗿𝗮𝗰𝗸𝗲𝗿"""
+    IP_TXT = """ 𝗜𝗽 𝗮𝗱𝗱𝗿𝗲𝘀𝘀 𝘁𝗿𝗮𝗰𝗸𝗲𝗿
+    """
     JSON_TXT ="""➤ 𝗝𝘀𝗼𝗻
 
 Bot returns json for all replied messages with /json
