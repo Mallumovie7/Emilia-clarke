@@ -101,11 +101,9 @@ Note
 • Share us for more features"""
     
     TELE_TXT = """ ➤ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗽𝗵 𝘂𝗽𝗹𝗼𝗮𝗱𝗲𝗿
-
 Do as you wish with telegra.ph module!
 
-</b>USAGE:</b>
-
+⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 🤧 /telegraph - 𝚂𝙴𝙽𝙳 𝙼𝙴 𝙿𝙸𝙲𝚃𝚄𝚁𝙴 𝙾𝚁 𝚅𝙸𝙳𝙴𝙾 𝚄𝙽𝙳𝙴𝚁 (5𝙼𝙱)
 
 <b>NOTE:</b>
@@ -117,7 +115,6 @@ Do as you wish with telegra.ph module!
     
     """
     JSON_TXT ="""➤ 𝗝𝘀𝗼𝗻
-
 Bot returns json for all replied messages with /json
 
 <b>Features:</b>
@@ -130,15 +127,13 @@ Group Support
 
 Everyone can use this command , if spaming happens bot will automatically ban you from the group."""
     PURGE_TXT = """➤ 𝗣𝘂𝗿𝗴𝗲 𝗼𝗿 𝗱𝗲𝗹𝗲𝘁𝗲
-    
 𝙳𝙴𝙻𝙴𝚃𝙴 𝙻𝙾𝚃 𝙾𝙵 𝙼𝙴𝚂𝚂𝙰𝙶𝙴𝚂 𝙵𝚁𝙾𝙼 𝙶𝚁𝙾𝚄𝙿! 
     
- <b>ADMIN</b> 
-
+⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
+    
     BUTTON_TXT = """➤ 𝗕𝘂𝘁𝘁𝗼𝗻𝘀
-
--Emilia Supports both url and alert inline buttons.
+Emilia Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -150,11 +145,11 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
+    
     AUTOFILTER_TXT = """➤ 𝗔𝘂𝘁𝗼𝗳𝗶𝗹𝘁𝗲𝗿
+𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚃𝙾 𝚃𝚄𝚁𝙽 𝙾𝙵𝙵/𝙾𝙽 𝙵𝙸𝙻𝚃𝙴𝚁𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙻𝙻𝚈 𝙵𝚁𝙾𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙴 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝚃𝙾 𝙾𝙽 𝙰𝙽𝙳 𝙾𝙵𝙵 𝚃𝙷𝙴 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿...
 
-<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚃𝙾 𝚃𝚄𝚁𝙽 𝙾𝙵𝙵/𝙾𝙽 𝙵𝙸𝙻𝚃𝙴𝚁𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙻𝙻𝚈 𝙵𝚁𝙾𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙴 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝚃𝙾 𝙾𝙽 𝙰𝙽𝙳 𝙾𝙵𝙵 𝚃𝙷𝙴 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿.../</b>
-
-<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
+⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 <b>›› /autofilter on - 𝙴𝙽𝙰𝙱𝙻𝙴 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿𝚂.</b>
 <b>›› /autofilter off - 𝙳𝙸𝚂𝙰𝙱𝙻𝙴𝙳 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿𝚂.</b>
 <b>›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
@@ -170,20 +165,20 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 1. 𝙾𝙽𝙻𝚈 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙰𝙽 𝙰𝙳𝙳 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽.
 2. Send <code>/connect</code> for connecting me to ur PM
 
-<b>Commands and Usage:</b>
+⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
+    
     EXTRAMOD_TXT = """➤ 𝗘𝘅𝘁𝗿𝗮 𝗺𝗼𝗱𝘂𝗹𝗲𝘀
-
-<b>NOTE:</b>
 𝚃𝙷𝙴𝚂𝙴 𝙰𝚁𝙴 𝙴𝚇𝚃𝚁𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙴𝙼𝙸𝙻𝙸𝙰 𝙲𝙻𝙰𝚁𝙺𝙴
 
-<b>Commands and Usage:</b>
+⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>"""
+    
     ADMIN_TXT = """➤ 𝗔𝗱𝗺𝗶𝗻𝘀
 
 <b>NOTE:</b>
@@ -201,6 +196,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 • /unban_user  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
+    
     STATUS_TXT = """
 █▀ ▀█▀ ▄▀█ ▀█▀ █▀
 ▄█ ░█░ █▀█ ░█░ ▄█
