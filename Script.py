@@ -34,6 +34,7 @@ class script(object):
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺
 6. /throw_ball - Throw a ball
 7. /basket_throw - Throw ball on basket"""
+    
     MANUELFILTER_TXT = """➤ 𝗠𝗮𝗻𝘂𝗮𝗹 𝗳𝗶𝗹𝘁𝗲𝗿
 Filter is the feature were users can set automated replies for a particular keyword and  will respond whenever a keyword is found the messagecan set automated replies for a particular keyword and  will respond whenever a keyword is found the message
 <b>NOTE:</b>
