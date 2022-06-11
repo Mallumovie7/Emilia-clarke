@@ -23,7 +23,7 @@ class script(object):
 ⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
 • /whois give a user full details"""
    
-FUN_TXT ="""➤ 𝗙𝘂𝗻𝘀 𝗺𝗼𝗱𝘂𝗹𝗲 
+    FUN_TXT ="""➤ 𝗙𝘂𝗻𝘀 𝗺𝗼𝗱𝘂𝗹𝗲 
 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶𝚂
 
 ⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
