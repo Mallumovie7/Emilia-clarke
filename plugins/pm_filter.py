@@ -840,7 +840,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Yᴛ sᴇᴀʀᴄʜ', callback_data='ytsearch')
             ],[
             InlineKeyboardButton('ʏᴛ ᴛʜᴜᴍʙ', callback_data='ytthumb'),
-            InlineKeyboardButton('ᴢᴏᴍʙɪᴇ', callback_data='zombies')
+            InlineKeyboardButton('ᴢᴏᴍʙɪᴇ', callback_data='zombies'), 
+            InlineKeyboardButton('ɪᵖ', callback_data='ip') 
             ],[
             InlineKeyboardButton('⬅️ ᴘʀᴇᴠɪᴏᴜs', callback_data='help'), 
             InlineKeyboardButton('🔮 sᴛᴀᴛs', callback_data='stats'), 
@@ -933,6 +934,18 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.ZOMBIES_TXT,
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "ip":
+        buttons = [[
+            InlineKeyboardButton('🔙 ʙᴀᴄᴋ', callback_data='helpb'), 
+            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.IP_TXT,
             disable_web_page_preview=True,
             reply_markup=reply_markup,
             parse_mode='html'
