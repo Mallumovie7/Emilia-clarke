@@ -26,4 +26,4 @@ async def wiki_pedia(Client, message):
         if i == limit:
             break
     output = f"**Wikipedia Search:**\n`{query}`\n\n**Results:**\n{output}"
-    await message.edit_or_send_as_file(text=output, caption=query,
+    await message.edit_or_send_as_file(text=output, caption=query)
