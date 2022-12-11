@@ -1,5 +1,5 @@
 {
-    "name": "ᎡᏴ [𝙻𝚄𝙽𝙰]💖",
+    "name": "Emilia clarke",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
     "logo": "https://telegra.ph/file/3879b9198f163c5523d88.jpg",
     "stack": "container",
@@ -77,7 +77,7 @@
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "Luna_Files",
+            "value": "tgiles",
             "required": false
         },
         "CACHE_TIME": {
@@ -92,7 +92,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "RBLunainline",
+            "value": "Rex",
             "required": false
         },
         "IMDB": {
